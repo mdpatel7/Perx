@@ -1,0 +1,1 @@
+ASSIGN a 3 ASSIGN b 2 ASSIGN c SUM a,b PRINT c 

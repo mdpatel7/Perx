@@ -1,0 +1,6 @@
+boolean a;
+a = T;
+b =2;
+if (a) {
+print b;
+};

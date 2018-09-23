@@ -1,0 +1,8 @@
+a = 5;
+b = 1;
+f = 1;
+while (b <= 5) do{
+f = f * b;
+b = b+1;
+};
+print f;
